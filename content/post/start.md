@@ -1,10 +1,7 @@
 +++
 date = "2017-05-21T10:09:45+12:00"
-
 title = "Introduction to MWScript"
 subtitle = "Extending MoneyWorks"
-
-
 +++
 
 #### What is MWScript?

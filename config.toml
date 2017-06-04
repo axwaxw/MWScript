@@ -47,3 +47,13 @@ pygmentCodeFences = true
   spotify = "username"
   bandcamp = "username"
   itchio = "username"
+
+  [[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+    [[menu.main]]
+      name = "Contact"
+      url = "page/contact/"
+      weight = 2

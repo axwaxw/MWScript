@@ -1,9 +1,6 @@
 +++
 date = "2017-05-16T10:09:45+12:00"
-
 title = "Welcome"
-
-
 +++
 
 MWScript is the scripting language of [MoneyWorks Gold](http://www.cognito.co.nz/ "MoneyWorks - Seriously Good Accounting Software") , accessible through the in-built script editor.  MWScript allows you to customise and extend the functionality of MoneyWorks, quickly and easily, from within the MoneyWorks client.

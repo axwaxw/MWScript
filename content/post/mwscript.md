@@ -1,7 +1,6 @@
 +++
 date = "2017-05-16T10:09:45+12:00"
 title = "Hello World - A Closer Look"
-
 +++
 
 Our simple example contains some elements that are common to most, if not all MWScripts:

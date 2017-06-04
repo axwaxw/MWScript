@@ -2,7 +2,6 @@
 date = "2017-05-27T10:09:45+12:00"
 title = "Hello World"
 subtitle = "See, it works!"
-
 +++
 
 As is traditional, we will start with a simple 'Hello World' example.  This script does nothing more than launch an 'alert' that says "Hello World".  
