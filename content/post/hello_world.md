@@ -4,7 +4,9 @@ title = "Hello World"
 subtitle = "See, it works!"
 +++
 
-As is traditional, we will start with a simple 'Hello World' example.  This script does nothing more than launch an 'alert' that says "Hello World".  
+As is traditional, we will start with a simple 'Hello World' example.  This script installs a new command in the command menu which, when clicked, launches an 'alert' that says "Hello World".  
+
+<!--more-->
 
 <pre class="prettyprint lang-mwscript">
 constant meta = "Script by YOUR NAME. http://YOUR_URL"
@@ -32,22 +34,23 @@ To install, you can follow these steps:
 
 #### Option A:  Copy / Paste
 
-- copy the text of the script above
-- open the MWScript editor (__Show > Scripts__ or Ctrl+Shift+S)
-- click __"+"__ in the bottom left corner.
-- choose __Add a new script__
-- name it "Hello_World"
+- copy the text of the script above;
+- open the MWScript editor (__Show > Scripts__ or Ctrl+Shift+S);
+- click __"+"__ in the bottom left corner;
+- choose __Add a new script__;
+- name it "Hello_World";
+- paste in the text;
 - click __Activate__ (green button at the top of the screen) to activate the script.  
 
 ___  
 
 #### Option B:  Download and Install
 
-- make sure MoneyWorks is open (preferrably in the sample document, Acme Widgets)
-- download the script <b><a href="/scripts/hello_world.mwxml" download>here</a></b>
-- open the file
-- click __Yes__ to install
-- click __Close__ to close the installation dialogue
+- make sure MoneyWorks is open (preferrably in the sample document, Acme Widgets);
+- download the script <b><a href="/scripts/hello_world.mwxml" download>here</a></b>;
+- open the file;
+- click __Yes__ to install;
+- click __Close__ to close the installation dialogue;
 - click __Activate__ (green button at the top of the screen) to activate the script.  
 
 ___
